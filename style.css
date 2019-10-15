@@ -62,16 +62,20 @@ td {
 
  #H:hover {
     background-color: #f9c1ff;
+    cursor: pointer;
  }
  #paars:hover {
     background-color: #eaff40;
+    cursor: pointer;
  }
  #blauw:hover {
     background-color: #c1ffe1;
+    cursor: pointer;
  }
 
  #geel:hover {
     background-color: #f9c1ff;
+    cursor: pointer;
 }
 
 
